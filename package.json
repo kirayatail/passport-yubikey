@@ -1,6 +1,6 @@
 {
   "name": "passport-yubikey",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Yubikey strategy for Passport.js",
   "main": "index.js",
   "repository": "https://github.com/kirayatail/passport-yubikey",
