@@ -1,0 +1,20 @@
+{
+  "name": "passport-yubikey",
+  "version": "0.0.1",
+  "description": "A Yubikey strategy for Passport.js",
+  "main": "index.js",
+  "repository": "https://github.com/kirayatail/passport-yubikey",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "passport",
+    "yubikey"
+  ],
+  "author": "Max Witt",
+  "license": "MIT",
+  "dependencies": {
+    "passport-strategy": "^1.0.0",
+    "yub": "^0.10.10"
+  }
+}
